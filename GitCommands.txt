@@ -1,0 +1,13 @@
+1. Add an existing codebase to a new git repository
+
+	git init
+	git add .
+	git commit -m "Commit initial sources"
+	git remote add origin https://github.com/githubblackhorse/corefundamentals.git
+	git push origin master
+	git stat
+
+That's it
+
+2. 
+	
