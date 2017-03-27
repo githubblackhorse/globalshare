@@ -11,5 +11,7 @@
 
 	git add .
 	git commit -m "Commit modified source"
-	
+	git push origin master
+
+
 	
