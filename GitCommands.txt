@@ -7,7 +7,9 @@
 	git push origin master
 	git stat
 
-That's it
+2. Add changed files to the existing git repository
 
-2. 
+	git add .
+	git commit -m "Commit modified source"
+	
 	
